@@ -1,0 +1,26 @@
+{
+  "id": "starhold-ui",
+  "title": "Starhold UI",
+  "version": "0.0.1",
+  "styles": [
+    "styles/main.css"
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "description": "<p>A module to add themed background and detail to the VTT UI for futuristic sci-fi settings.</p>",
+  "authors": [
+    {
+      "name": "Sourcerer",
+      "email": "zmonster@myrealityz.net",
+      "url": "http://myrealityz.net",
+      "discord": "Lexicon2357",
+      "flags": {}
+    }
+  ],
+  "url": "https://myrealityz.net",  
+  "manifest": "https://vtt.myrealityz.net/modules_unpacked/starhold-ui/module.json",    
+  "download": "https://vtt.myrealityz.net/modules_unpacked/starhold-ui.php?file=starhold-ui.zip",
+  "flags": {}
+}

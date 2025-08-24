@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Oxanium Light';
+    font-style: normal;
+    src: url('../assets/fonts/Oxanium-Light.ttf') format('woff2');
+}
+@font-face {
+    font-family: 'Oxanium Bold';
+    font-style: normal;
+    src: url('../assets/fonts/Oxanium-Bold.ttf') format('woff2');
+}
+.-emu-layout body.-emu .window-app .window-content {
+    font-family: 'Oxanium Bold' !important;
+}
+
+body.game {
+    background-image: url("../assets/images/spljmbk.webp");
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    font-family: "Oxanium Light", "Oxanium Bold", sans-serif;
+  }
+
+div.progress.hit-points.shields::before {
+    background: linear-gradient(to right,
+    #1b1d4b 0%,
+    #3b64a5 100%)
+    !important;
+    border-inline-end: var(--border-width) solid #27306d !important;
+    border-radius: 4px 0 0 4px;
+}
