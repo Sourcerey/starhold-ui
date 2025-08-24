@@ -20,7 +20,7 @@
     }
   ],
   "url": "https://myrealityz.net",  
-  "manifest": "https://vtt.myrealityz.net/modules_unpacked/starhold-ui/module.json",    
-  "download": "https://vtt.myrealityz.net/modules_unpacked/starhold-ui.php?file=starhold-ui.zip",
+  "manifest": "https://raw.githubusercontent.com/Sourcerey/starhold-ui/refs/tags/v1.0.0/module.json",    
+  "download": "https://github.com/Sourcerey/starhold-ui/archive/refs/tags/v1.0.0.zip",
   "flags": {}
 }
