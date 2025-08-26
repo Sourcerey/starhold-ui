@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'Oxanium Light';
     font-style: normal;
-    src: url('../assets/fonts/Oxanium-Light.ttf') format('woff2');
+    src: url('../assets/fonts/Oxanium-Light.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Oxanium Bold';
     font-style: normal;
-    src: url('../assets/fonts/Oxanium-Bold.ttf') format('woff2');
+    src: url('../assets/fonts/Oxanium-Bold.ttf') format('truetype');
 }
 .-emu-layout body.-emu .window-app .window-content {
     font-family: 'Oxanium Bold' !important;
