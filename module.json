@@ -15,12 +15,10 @@
       "name": "Sourcerer",
       "email": "zmonster@myrealityz.net",
       "url": "http://myrealityz.net",
-      "discord": "Lexicon2357",
-      "flags": {}
+      "discord": "Lexicon2357"
     }
   ],
   "url": "https://myrealityz.net",  
   "manifest": "#{MANIFEST}#",    
-  "download": "#{DOWNLOAD}#",
-  "flags": {}
+  "download": "#{DOWNLOAD}#"
 }
